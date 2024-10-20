@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs project\\7.2 \u0456\u0442\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8672AB5D-6F8B-4DEF-A8E8-2CB7B3A0E17A}|7.2\\7.2.vcxproj|D:\\vs project\\7.2 \u0456\u0442\\7.2\\7.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8672AB5D-6F8B-4DEF-A8E8-2CB7B3A0E17A}|7.2\\7.2.vcxproj|solutionrelative:7.2\\7.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3DBCE8-20B5-49EF-B33C-06E43E910680}|7.2 \u0456\u0442\\7.2 \u0456\u0442.vcxproj|D:\\vs project\\7.2 \u0456\u0442\\7.2 \u0456\u0442\\7.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB3DBCE8-20B5-49EF-B33C-06E43E910680}|7.2 \u0456\u0442\\7.2 \u0456\u0442.vcxproj|solutionrelative:7.2 \u0456\u0442\\7.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "7.2.cpp",
+              "DocumentMoniker": "D:\\vs project\\7.2 \u0456\u0442\\7.2\\7.2.cpp",
+              "RelativeDocumentMoniker": "7.2\\7.2.cpp",
+              "ToolTip": "D:\\vs project\\7.2 \u0456\u0442\\7.2\\7.2.cpp",
+              "RelativeToolTip": "7.2\\7.2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T15:32:10.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "7.2.cpp",
+              "DocumentMoniker": "D:\\vs project\\7.2 \u0456\u0442\\7.2 \u0456\u0442\\7.2.cpp",
+              "RelativeDocumentMoniker": "7.2 \u0456\u0442\\7.2.cpp",
+              "ToolTip": "D:\\vs project\\7.2 \u0456\u0442\\7.2 \u0456\u0442\\7.2.cpp",
+              "RelativeToolTip": "7.2 \u0456\u0442\\7.2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T13:48:05.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
